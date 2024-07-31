@@ -61,6 +61,11 @@ body {
     justify-content: space-between;
   }
 
+  .news {
+    overflow-y: scroll;
+    max-height: 250px;
+  }
+
   .profilepic {
     max-width: 20%;
     height: 20%;
