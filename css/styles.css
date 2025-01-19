@@ -63,7 +63,7 @@ body {
 
   .news {
     overflow-y: scroll;
-    max-height: 250px;
+    max-height: 150px;
   }
 
   .profilepic {
